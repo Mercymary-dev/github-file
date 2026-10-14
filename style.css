@@ -1,0 +1,12 @@
+body{
+    background-color: bisque;
+    text-align: center;
+    padding: 50px;
+}
+h1{
+    color: aqua;
+}
+p{
+    color: #333333;
+    font-size: 18px;
+}
